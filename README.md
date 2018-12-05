@@ -1,7 +1,6 @@
 ## Burger Project
 
 -   Burger Builder built using create-react-app and Firebase
--   Hosted at:
 
 #### To start
 
